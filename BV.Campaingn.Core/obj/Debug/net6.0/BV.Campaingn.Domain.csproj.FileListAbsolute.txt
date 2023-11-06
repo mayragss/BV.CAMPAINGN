@@ -1,0 +1,12 @@
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Core\bin\Debug\net6.0\BV.Campaingn.Domain.deps.json
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Core\bin\Debug\net6.0\BV.Campaingn.Domain.dll
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Core\bin\Debug\net6.0\BV.Campaingn.Domain.pdb
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Core\obj\Debug\net6.0\BV.Campaingn.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Core\obj\Debug\net6.0\BV.Campaingn.Domain.AssemblyInfoInputs.cache
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Core\obj\Debug\net6.0\BV.Campaingn.Domain.AssemblyInfo.cs
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Core\obj\Debug\net6.0\BV.Campaingn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Core\obj\Debug\net6.0\BV.Campaingn.Domain.dll
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Core\obj\Debug\net6.0\refint\BV.Campaingn.Domain.dll
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Core\obj\Debug\net6.0\BV.Campaingn.Domain.pdb
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Core\obj\Debug\net6.0\ref\BV.Campaingn.Domain.dll
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Core\obj\Debug\net6.0\BV.Campaingn.Domain.csproj.AssemblyReference.cache

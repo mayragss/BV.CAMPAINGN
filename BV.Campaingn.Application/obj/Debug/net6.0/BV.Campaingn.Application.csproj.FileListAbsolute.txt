@@ -1,0 +1,15 @@
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Application\bin\Debug\net6.0\BV.Campaingn.Application.deps.json
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Application\bin\Debug\net6.0\BV.Campaingn.Application.dll
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Application\bin\Debug\net6.0\BV.Campaingn.Application.pdb
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Application\bin\Debug\net6.0\BV.Campaingn.Domain.dll
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Application\bin\Debug\net6.0\BV.Campaingn.Domain.pdb
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Application\obj\Debug\net6.0\BV.Campaingn.Application.csproj.AssemblyReference.cache
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Application\obj\Debug\net6.0\BV.Campaingn.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Application\obj\Debug\net6.0\BV.Campaingn.Application.AssemblyInfoInputs.cache
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Application\obj\Debug\net6.0\BV.Campaingn.Application.AssemblyInfo.cs
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Application\obj\Debug\net6.0\BV.Campaingn.Application.csproj.CoreCompileInputs.cache
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Application\obj\Debug\net6.0\BV.Campaingn.Application.csproj.CopyComplete
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Application\obj\Debug\net6.0\BV.Campaingn.Application.dll
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Application\obj\Debug\net6.0\refint\BV.Campaingn.Application.dll
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Application\obj\Debug\net6.0\BV.Campaingn.Application.pdb
+C:\Users\mayra\source\BV.CAMPAINGN\BV.Campaingn.Application\obj\Debug\net6.0\ref\BV.Campaingn.Application.dll

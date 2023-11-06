@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mayra\\source\\BV.CAMPAINGN\\BV.Campaingn.Application\\BV.Campaingn.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mayra\\source\\BV.CAMPAINGN\\BV.Campaingn.Application\\BV.Campaingn.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mayra\\source\\BV.CAMPAINGN\\BV.Campaingn.Application\\BV.Campaingn.Application.csproj",
+        "projectName": "BV.Campaingn.Application",
+        "projectPath": "C:\\Users\\mayra\\source\\BV.CAMPAINGN\\BV.Campaingn.Application\\BV.Campaingn.Application.csproj",
+        "packagesPath": "C:\\Users\\mayra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mayra\\source\\BV.CAMPAINGN\\BV.Campaingn.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mayra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\mayra\\OneDrive\\Ambiente de Trabalho\\UseCasePublish": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mayra\\source\\BV.CAMPAINGN\\BV.Campaingn.Core\\BV.Campaingn.Domain.csproj": {
+                "projectPath": "C:\\Users\\mayra\\source\\BV.CAMPAINGN\\BV.Campaingn.Core\\BV.Campaingn.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mayra\\source\\BV.CAMPAINGN\\BV.Campaingn.Core\\BV.Campaingn.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mayra\\source\\BV.CAMPAINGN\\BV.Campaingn.Core\\BV.Campaingn.Domain.csproj",
+        "projectName": "BV.Campaingn.Domain",
+        "projectPath": "C:\\Users\\mayra\\source\\BV.CAMPAINGN\\BV.Campaingn.Core\\BV.Campaingn.Domain.csproj",
+        "packagesPath": "C:\\Users\\mayra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mayra\\source\\BV.CAMPAINGN\\BV.Campaingn.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mayra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\mayra\\OneDrive\\Ambiente de Trabalho\\UseCasePublish": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
